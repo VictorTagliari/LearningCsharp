@@ -1,1 +1,2 @@
 # LearningCsharp
+Vamos aprender, galera!
